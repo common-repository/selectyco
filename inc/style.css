@@ -1,0 +1,93 @@
+#selectycoTbl {
+  font-size: 13px;
+  
+}
+
+#createBackendItem {
+  border: 0px; 
+  box-shadow: none; 
+  padding-top:3px;
+  color: #fff; 
+  font-weight:bold; 
+  width: 240px; 
+  height: 32px; 
+  font-size: 13px; 
+  background: url('../images/selectyco-button-empty.png') 
+  no-repeat; 
+  background-size: contain;
+  text-align:center;
+}
+
+.steps {
+  border: 1px black solid;
+  margin: 25px;
+  padding: 30px;
+  font-size: 15px;
+  width: 1000px;
+}
+
+.stepContainer { padding-top:10px}
+.left { float: left; width: 150px;  padding: 5px; line-height:29px }
+.content { float: left; width: 620px; padding: 5px; }
+.right { float: right; width: 200px; padding: 5px; }           
+.clr { clear: both; }
+
+.pcCD { padding: 0 40px }
+
+.steps .step {
+  font-weight: bold;
+  padding-right: 25px;
+}
+
+#sycIntro {
+  margin: 30px;
+}
+
+.leftCol {
+  padding-right: 50px;
+}
+
+textarea { vertical-align: top; }
+
+.top1 {
+  padding-top: 20px;
+}
+
+#allreadyExistsBtn {
+  
+  text-align: center;
+  padding-top: 10px;
+}
+
+#sycId_eMail, #sycId_authKey, #sycId_url, #sycId_cPerson {
+  width: 520px;
+}
+
+#sycId_teaserLength {
+  width: 100px;
+}
+
+.sycError{
+  color:red;
+  font-weight:bold;
+  font-size:13px;
+}
+
+.sycSuccess{
+  color: #2ac5dd;
+  font-weight:bold;
+  font-size:13px;
+}
+
+.sycUpdateBtn {
+  cursor: pointer;
+  color: #006799
+}
+
+.sycUpdateBtn:hover {
+    color: #008ec2;
+}
+
+
+
+

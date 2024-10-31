@@ -1,0 +1,121 @@
+# Copyright (C) 2016 selectyco
+# This file is distributed under the same license as the selectyco package.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: selectyco 1.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/selectyco\n"
+"POT-Creation-Date: 2016-09-14 08:50+0200\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: Poedit 1.8.7\n"
+
+#: selectyco-general-settings.php:11
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: selectyco.php:99
+msgid "Item data"
+msgstr ""
+
+#: selectyco.php:119
+msgid "Itemname"
+msgstr ""
+
+#: selectyco.php:120
+msgid "Name of the article"
+msgstr ""
+
+#: selectyco.php:123
+msgid "Type of Item"
+msgstr ""
+
+#: selectyco.php:136
+msgid "Price category"
+msgstr ""
+
+#: selectyco.php:149
+msgid "Runtime"
+msgstr ""
+
+#: selectyco.php:160
+msgid "months"
+msgstr ""
+
+#: selectyco.php:161
+msgid "weeks"
+msgstr ""
+
+#: selectyco.php:162
+msgid "days"
+msgstr ""
+
+#: selectyco.php:174
+msgid "Create selectyco item"
+msgstr ""
+
+#: selectyco.php:216
+msgid "itemname missing"
+msgstr ""
+
+#: selectyco.php:252
+msgid "Artikel konnte nicht angelegt werden ! (SSL)"
+msgstr ""
+
+#: selectyco.php:267
+msgid "Artikel konnte nicht angelegt werden !"
+msgstr ""
+
+#: selectyco.php:284
+msgid "insert_IntoWPTable"
+msgstr ""
+
+#: selectyco.php:284
+msgid "Artikel wurde erfolgreich angelegt."
+msgstr ""
+
+#: selectyco.php:293
+msgid "delete_FromWPTable"
+msgstr ""
+
+#: selectyco.php:302 selectyco.php:305 selectyco.php:319
+msgid "send_licenceRequest"
+msgstr ""
+
+#: selectyco.php:302
+msgid "email is invalid"
+msgstr ""
+
+#: selectyco.php:305
+msgid "all fields are mandatory"
+msgstr ""
+
+#: selectyco.php:319
+msgid "request successfully sent"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "selectyco"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://plugins.svn.wordpress.org/selectyco/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Single digital content sales via selectyco. Users register once and can "
+"purchase single content across multiple platforms."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "selectyco Media Solutions GmbH"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://www.selectyco.com"
+msgstr ""
